@@ -4,3 +4,7 @@ https://www.surfmusic.de/m3u/nasional-fm,18260.m3u
 
 #EXTINF:-1 tvg-name="AI FM" group-title="Radio Malaysia",AI FM
 https://www.surfmusic.de/m3u/ai-fm,19885.m3u
+
+#EXTINF:-1 tvg-name="HOT FM" group-title="Radio Malaysia",HOT FM
+https://www.surfmusic.de/m3u/hot-fm,11409.m3u
+
