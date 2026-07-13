@@ -33,3 +33,7 @@ https://stream.rcs.revma.com/bkqfqkrbv4uvv/hls.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="ERA SABAH" group-title="Radio Malaysia",ERA SABAH
 https://stream.rcs.revma.com/4p3nqmmbv4uvv/hls.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="X" group-title="Radio Malaysia",X
+https://stream.rcs.revma.com/azatk0tbv4uvv/hls.m3u8
