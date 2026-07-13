@@ -29,3 +29,7 @@ https://www.surfmusic.de/m3u/eight-fm,25612.m3u
 #EXTM3U
 #EXTINF:-1 tvg-name="ERA" group-title="Radio Malaysia",ERA
 https://stream.rcs.revma.com/bkqfqkrbv4uvv/hls.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="ERA SARAWAK" group-title="Radio Malaysia",ERA SARAWAK
+https://stream.rcs.revma.com/4p3nqmmbv4uvv/hls.m3u8
