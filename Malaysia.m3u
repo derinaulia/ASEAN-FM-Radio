@@ -34,12 +34,6 @@ https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8
 #EXTINF:-1 group-title="Media Prima Audio", Eight FM
 https://stream.rcs.revma.com/qp0xrd9mtd3vv/hls.m3u8
 
-#EXTINF:-1 group-title=" Star Media Radio Group", SURIA FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FM.mp3
-
-#EXTINF:-1 group-title=" Star Media Radio Group", 988 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3
-
 #EXTINF:-1 group-title="Mediacorp", WARNA 942
 https://28373.live.streamtheworld.com/WARNA942FMAAC_SC?1784729464
 
